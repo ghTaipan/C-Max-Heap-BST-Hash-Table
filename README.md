@@ -1,4 +1,4 @@
-# C-Max-Heap-BST-Hash-Table
+# C++-Max-Heap-BST-Hash-Table
 C++ codes for max heap, bst , hash table.
 
 utils.hpp files do not belong to me. They were given as source code.
